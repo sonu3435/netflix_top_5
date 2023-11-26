@@ -86,13 +86,13 @@ button{
 
 @media (max-width:768px) {
   .card{
-     width: 35%;
+     width: 38%;
   }
 }
 
 @media (max-width:568px) {
   .card{
-    margin: 2%;
-     width: 95%;
+    margin: 5%;
+     width: 90%;
   }
 }
